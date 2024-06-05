@@ -1,3 +1,3 @@
 def display_header(data):
-    print("Entête du dataset :")
+    print("Entête du fichier csv:")
     print(data.head())

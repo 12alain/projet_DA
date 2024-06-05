@@ -1,4 +1,4 @@
 def calcul(a, b):
-    
-    return a+b
+    R = a+b
+    return R
     
